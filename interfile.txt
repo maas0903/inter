@@ -1,1 +1,1 @@
-Callee: IMachine {85632c68-b5bb-4316-a900-5eb28d3413df}
+https://github.com/qrti/shrink.git
